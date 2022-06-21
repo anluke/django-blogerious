@@ -1,2 +1,2 @@
 # django-blogerious
- Django blog. Backend exercise with frontend implemented.
+ Django blog. Backend exercise with Frontend material pre-installed.
